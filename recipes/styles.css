@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    color: rgb(40, 197, 121);
+    text-decoration: wavy;
+
+}
+
+li {
+    text-align: left;
+}
+
+#photo {
+    width: auto;
+    height: 400px;
+}

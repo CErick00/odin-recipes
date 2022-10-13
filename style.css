@@ -1,0 +1,12 @@
+body {
+    color: #000;
+    font-size: 24px;
+    font-style: italic;
+    background-color: beige;
+    text-align: center;
+}
+
+#photo {
+    width: auto;
+    height: 400px;
+}
